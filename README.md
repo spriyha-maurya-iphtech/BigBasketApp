@@ -48,6 +48,6 @@ Add push notifications for offers and updates.
 ## License
 This project is open source.
 ## Getting Started
-Clone the Repository: git clone (https://github.com/spriyha-maurya-iphtech/SpotifyUI.git)
+Clone the Repository: git clone (https://github.com/spriyha-maurya-iphtech/BigBasketApp.git)
 Open in Xcode: Open the SpotifyUI.xcodeproj file in Xcode.
 Run the App: Ensure you have an iOS simulator or device configured. Build and run the app using the Play button in Xcode.
