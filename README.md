@@ -16,30 +16,38 @@ This repository contains a SwiftUI-based clone of the popular BigBasket app. The
 * Cart Icon: Displays the number of items in the cart dynamically.
 * Add/Remove Items: Users can add or remove items from the cart, with real-time updates to the total cost and quantity.
 * Navigation: Links to the cart details page for easy access.
+4. Category Menu Items
+* Interactive Categories: Displays a list of product categories for quick navigation.
+* Customizable Layout: Categories are presented in a visually appealing, scrollable layout.
+* Ease of Use: Users can quickly tap on a category to view related products.
 5. Reusable Components
 Modular and reusable SwiftUI components such as TopTitleView, SearchBarView etc.
 ## Requirements
 * Xcode 14+
 * Swift 5+
 * iOS 15+
-Dependencies
-
-Firebase Authentication
-
-Firebase Firestore
-
-Future Improvements
-
+## Package Dependencies
+* Firebase 
+* abseil
+* AppCheck
+* GoogleAppMeasurement
+* GoogleDataTransport
+* GoogleUtilities
+* gRPC
+* GTMSessionFetcher
+* InteropForGoogle
+* leveldb
+* nanopb
+* Promises
+* SwiftProtobuf
+## Future Improvements
 Add product filtering and sorting.
-
 Integrate payment gateway for seamless checkout.
-
 Enhance UI/UX with animations and themes.
-
 Add push notifications for offers and updates.
-
-Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-License
+## License
+This project is open source.
+## Getting Started
+Clone the Repository: git clone (https://github.com/spriyha-maurya-iphtech/SpotifyUI.git)
+Open in Xcode: Open the SpotifyUI.xcodeproj file in Xcode.
+Run the App: Ensure you have an iOS simulator or device configured. Build and run the app using the Play button in Xcode.
